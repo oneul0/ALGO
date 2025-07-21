@@ -59,7 +59,13 @@
 
 ## 필수 문제
 
-[DP 문제집](https://www.acmicpc.net/workbook/view/7319)  
+[평범한 배낭](https://www.acmicpc.net/problem/12865)  
+[파일 합치기](https://www.acmicpc.net/problem/11066)  
+[카드 섞기](https://www.acmicpc.net/problem/1091)  
+[괄호](https://www.acmicpc.net/problem/10422)  
+[우수 마을](https://www.acmicpc.net/problem/1949)  
+
+[삼각 그래프](https://www.acmicpc.net/problem/4883)  
 
  </br>
 

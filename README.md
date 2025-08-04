@@ -60,10 +60,10 @@
 ## 필수 문제
 
 [외판원 순회](https://www.acmicpc.net/problem/2098)  
-[내려가기](https://www.acmicpc.net/problem/2096)  
-[로또](https://www.acmicpc.net/problem/2758)  
-[괄호](https://www.acmicpc.net/problem/10422)  
-[우수 마을](https://www.acmicpc.net/problem/1949)  
+[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  
+[문자열 폭발](https://www.acmicpc.net/problem/9935)  
+[낚시왕](https://www.acmicpc.net/problem/17143)  
+[감시](https://www.acmicpc.net/problem/15683)  
 
  </br>
 

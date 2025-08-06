@@ -1,31 +1,36 @@
 let n = Int(readLine()!)!
-let cost = [0] + readLine()!.split(separator: " ").map { Int($0)! }
-var tree: [Int: [Int]] = [:]
-var visited = [Bool](repeating: false, count: n + 1)
-for _ in 0..<n - 1 {
-    let input = readLine()!.split(separator: " ").map { Int($0)! }
-    let a = input[0], b = input[1]
-    tree[a, default: []].append(b)
-    tree[b, default: []].append(a)
-}
+let populations = [-1] + readLine()!.split { $0 == " " }.map { Int($0)! }
+var tree = [Int: [Int]]()
+var dp = [[Int]](repeating: [Int](repeating: 0, count: 2), count: n+1)
+var isVisited = [Bool](repeating: false, count: n+1)
 
-var cache = [[Int]](repeating: [Int](repeating: 0, count: 2), count: n + 1)
-
-func dfs(node: Int) {
-    visited[node] = true
-    
-    cache[node][0] = 0
-    cache[node][1] = cost[node]
-    
-    for nextNode in tree[node, default: []] {
-        if !visited[nextNode] {
-            dfs(node: nextNode)
-            cache[node][0] += max(cache[nextNode][0], cache[nextNode][1])
-            cache[node][1] += cache[nextNode][0]
-        }
+func dfs(_ node: Int) -> Int {
+    dp[node][0] = 0
+    dp[node][1] = populations[node]
+    isVisited[node] = true
+    let childNodes = tree[node]!
+    for childNode in childNodes {
+        if isVisited[childNode] { continue }
+        dp[node][0] += dfs(childNode)
+        dp[node][1] += dp[childNode][0]
     }
+    return max(dp[node][1], dp[node][0])
 }
 
-dfs(node: 1)
+for _ in 0..<n-1 {
+    let gv = readLine()!.split { $0 == " " }.map { Int($0)! },
+        g = gv[0],
+        v = gv[1]
 
-print(max(cache[1][0], cache[1][1]))
+    if tree[g] == nil {
+        tree.updateValue([], forKey: g)
+    }
+    if tree[v] == nil {
+        tree.updateValue([], forKey: v)
+    }
+    tree[g]!.append(v)
+    tree[v]!.append(g)
+}
+
+let answer = dfs(1)
+print(answer)

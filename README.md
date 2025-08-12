@@ -65,11 +65,11 @@
 
 ## 필수 문제
 
-[외판원 순회](https://www.acmicpc.net/problem/2098)  
-[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  
-[문자열 폭발](https://www.acmicpc.net/problem/9935)  
-[낚시왕](https://www.acmicpc.net/problem/17143)  
-[감시](https://www.acmicpc.net/problem/15683)  
+[한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)  
+[지뢰찾기](https://www.acmicpc.net/problem/9082)  
+[크게 만들기](https://www.acmicpc.net/problem/2812)  
+[저울](https://www.acmicpc.net/problem/2437)  
+[전구와 스위치](https://www.acmicpc.net/problem/2138)  
 
  </br>
 

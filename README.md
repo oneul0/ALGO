@@ -28,11 +28,6 @@
     </td>
   </tr>
 </table>
-  
-2025년 08월 11일 ~ 2025년 08월 16일 4문제  
-2025년 08월 17일 ~ 2025년 08월 23일 휴가  
-2025년 08월 25일 문제 정하기!  
-2025년 08월 25일 ~ 2025년 09월 01일 정상 진행  
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -65,11 +60,11 @@
 
 ## 필수 문제
 
-[한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)  
-[지뢰찾기](https://www.acmicpc.net/problem/9082)  
-[크게 만들기](https://www.acmicpc.net/problem/2812)  
-[저울](https://www.acmicpc.net/problem/2437)  
-[전구와 스위치](https://www.acmicpc.net/problem/2138)  
+[Two Dots](https://www.acmicpc.net/problem/16929)  
+[작업](https://www.acmicpc.net/problem/20562)  
+[거짓말](https://www.acmicpc.net/problem/1043)  
+[벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)  
+[숨바꼭질 4](https://www.acmicpc.net/problem/13913)  
 
  </br>
 

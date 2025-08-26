@@ -60,7 +60,7 @@
 
 ## 필수 문제  
 
-<Graph> 
+Graph  
   
 [Two Dots](https://www.acmicpc.net/problem/16929)  
 [작업](https://www.acmicpc.net/problem/20562)  

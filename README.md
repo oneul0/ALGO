@@ -63,7 +63,7 @@
 Graph  
   
 [Two Dots](https://www.acmicpc.net/problem/16929)  
-[작업](https://www.acmicpc.net/problem/20562)  
+[작업](https://www.acmicpc.net/problem/2056)  
 [거짓말](https://www.acmicpc.net/problem/1043)  
 [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)  
 [숨바꼭질 4](https://www.acmicpc.net/problem/13913)  

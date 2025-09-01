@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-Graph  
+Simulation   
   
-[Two Dots](https://www.acmicpc.net/problem/16929)  
-[작업](https://www.acmicpc.net/problem/2056)  
-[거짓말](https://www.acmicpc.net/problem/1043)  
-[벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)  
-[숨바꼭질 4](https://www.acmicpc.net/problem/13913)  
+[상어 초등학교](https://www.acmicpc.net/problem/21608)  
+[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)  
+[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  
+[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  
+[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)  
 
  </br>
 

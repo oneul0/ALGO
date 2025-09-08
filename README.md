@@ -60,7 +60,7 @@
 
 ## 필수 문제  
 
-문자열   
+String   
   
 [게임 닉네임](https://www.acmicpc.net/problem/16934)  
 [불우이웃돕기](https://www.acmicpc.net/problem/1414)  

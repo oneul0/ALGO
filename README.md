@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-Simulation   
+문자열   
   
-[상어 초등학교](https://www.acmicpc.net/problem/21608)  
-[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)  
-[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  
-[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  
-[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)  
+[게임 닉네임](https://www.acmicpc.net/problem/16934)  
+[불우이웃돕기](https://www.acmicpc.net/problem/1414)  
+[현대 모비스 에어 서스펜션](https://www.acmicpc.net/problem/25970)  
+[Web Pages](https://www.acmicpc.net/problem/5076)  
+[전화번호 목록](https://www.acmicpc.net/problem/5052)  
 
  </br>
 

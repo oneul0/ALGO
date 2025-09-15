@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-String   
+PCCP  
   
-[게임 닉네임](https://www.acmicpc.net/problem/16934)  
-[불우이웃돕기](https://www.acmicpc.net/problem/1414)  
-[현대 모비스 에어 서스펜션](https://www.acmicpc.net/problem/25970)  
-[Web Pages](https://www.acmicpc.net/problem/5076)  
-[전화번호 목록](https://www.acmicpc.net/problem/5052)  
+[수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)  
+[수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)  
+[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)  
+[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)  
+[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)  
 
  </br>
 

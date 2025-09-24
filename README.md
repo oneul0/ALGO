@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-PCCP  
+구현    
   
-[수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)  
-[수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)  
-[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)  
-[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)  
-[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)  
+[주사위 굴리기](https://www.acmicpc.net/problem/14499)  
+[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)  
+[나무 재테크](https://www.acmicpc.net/problem/16235)  
+[아기 상어](https://www.acmicpc.net/problem/16236)  
+[연구소 3](https://www.acmicpc.net/problem/17142)  
 
  </br>
 

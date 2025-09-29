@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-구현    
+DP    
   
-[주사위 굴리기](https://www.acmicpc.net/problem/14499)  
-[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)  
-[나무 재테크](https://www.acmicpc.net/problem/16235)  
-[아기 상어](https://www.acmicpc.net/problem/16236)  
-[연구소 3](https://www.acmicpc.net/problem/17142)  
+[LCS 3](https://www.acmicpc.net/problem/1958)  
+[뮤탈리스크](https://www.acmicpc.net/problem/12869)  
+[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)  
+[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)  
+[할 일 정하기 1](https://www.acmicpc.net/problem/1311)  
 
  </br>
 

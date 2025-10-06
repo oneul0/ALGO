@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-DP    
+2024 KAKAO WINTER INTERNSHIP    
   
-[LCS 3](https://www.acmicpc.net/problem/1958)  
-[뮤탈리스크](https://www.acmicpc.net/problem/12869)  
-[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)  
-[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)  
-[할 일 정하기 1](https://www.acmicpc.net/problem/1311)  
+[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  
+[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  
+[주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  
+[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)  
+[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)  
 
  </br>
 

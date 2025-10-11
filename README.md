@@ -60,13 +60,13 @@
 
 ## 필수 문제  
 
-구현    
+2024 KAKAO WINTER INTERNSHIP    
   
-[주사위 굴리기](https://www.acmicpc.net/problem/14499)  
-[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)  
-[나무 재테크](https://www.acmicpc.net/problem/16235)  
-[아기 상어](https://www.acmicpc.net/problem/16236)  
-[연구소 3](https://www.acmicpc.net/problem/17142)  
+[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  
+[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  
+[주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  
+[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)  
+[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)  
 
  </br>
 

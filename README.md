@@ -64,7 +64,7 @@
 [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  
 [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  
     
-트리
+트리  
 [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924)  
 [트리](https://www.acmicpc.net/problem/4256)  
 [트리의 높이와 너비](https://www.acmicpc.net/problem/2250)  

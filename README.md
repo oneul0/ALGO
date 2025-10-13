@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>스터디 시간</td>
-    <td>월요일 10:30 ~
+    <td>월요일 20:00 ~
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -61,13 +61,15 @@
 ## 필수 문제  
 
 2024 KAKAO WINTER INTERNSHIP    
-  
-[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  
 [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  
 [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  
-[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)  
-[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)  
-
+    
+트리
+[트리의 기둥과 가지](https://www.acmicpc.net/problem/20924)  
+[트리](https://www.acmicpc.net/problem/4256)  
+[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)  
+[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)  
+  
  </br>
 
 

@@ -59,16 +59,13 @@
 </br>
 
 ## 필수 문제  
-
-2024 KAKAO WINTER INTERNSHIP    
-[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  
-[주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  
     
-트리  
-[트리의 기둥과 가지](https://www.acmicpc.net/problem/20924)  
-[트리](https://www.acmicpc.net/problem/4256)  
-[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)  
-[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)  
+이분탐색  
+[공유기 설치](https://www.acmicpc.net/problem/2110)  
+[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)  
+[휴게소 세우기](https://www.acmicpc.net/problem/1477)  
+[사냥꾼](https://www.acmicpc.net/problem/8983)  
+[사다리](https://www.acmicpc.net/problem/2022)  
   
  </br>
 

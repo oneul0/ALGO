@@ -60,12 +60,12 @@
 
 ## 필수 문제  
     
-이분탐색  
-[공유기 설치](https://www.acmicpc.net/problem/2110)  
-[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)  
-[휴게소 세우기](https://www.acmicpc.net/problem/1477)  
-[사냥꾼](https://www.acmicpc.net/problem/8983)  
-[사다리](https://www.acmicpc.net/problem/2022)  
+binary search  
+[오름세](https://www.acmicpc.net/problem/3745)  
+[꼬인 전깃줄](https://www.acmicpc.net/problem/1365)  
+[반도체 설계](https://www.acmicpc.net/problem/2352)  
+[가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)  
+[K번째 수](https://www.acmicpc.net/problem/1300)  
   
  </br>
 

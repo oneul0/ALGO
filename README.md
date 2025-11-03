@@ -60,12 +60,12 @@
 
 ## 필수 문제  
     
-binary search  
-[오름세](https://www.acmicpc.net/problem/3745)  
-[꼬인 전깃줄](https://www.acmicpc.net/problem/1365)  
-[반도체 설계](https://www.acmicpc.net/problem/2352)  
-[가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)  
-[K번째 수](https://www.acmicpc.net/problem/1300)  
+Dijkstra   
+[택배](https://www.acmicpc.net/problem/1719)  
+[거울 설치](https://www.acmicpc.net/problem/2151)  
+[면접보는 승범이네](https://www.acmicpc.net/problem/17835)  
+[네트워크 복구](https://www.acmicpc.net/problem/2211)  
+[달빛 여우](https://www.acmicpc.net/problem/16118)  
   
  </br>
 

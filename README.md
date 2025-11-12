@@ -61,11 +61,13 @@
 ## 필수 문제  
     
 Dijkstra   
-[택배](https://www.acmicpc.net/problem/1719)  
-[거울 설치](https://www.acmicpc.net/problem/2151)  
-[면접보는 승범이네](https://www.acmicpc.net/problem/17835)  
 [네트워크 복구](https://www.acmicpc.net/problem/2211)  
 [달빛 여우](https://www.acmicpc.net/problem/16118)  
+  
+[미확인 도착지](https://www.acmicpc.net/problem/9370)  
+[인간 대포](https://www.acmicpc.net/problem/10473)  
+[횡단보도](https://www.acmicpc.net/problem/24042)  
+[도로검문](https://www.acmicpc.net/problem/2307)  
   
  </br>
 

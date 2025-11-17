@@ -60,14 +60,15 @@
 
 ## 필수 문제  
     
-Dijkstra   
-[네트워크 복구](https://www.acmicpc.net/problem/2211)  
-[달빛 여우](https://www.acmicpc.net/problem/16118)  
+String   
+[K-Words Problem](https://www.acmicpc.net/problem/30037)  
+[암호 깨기](https://www.acmicpc.net/problem/9369)  
+[부품 대여장](https://www.acmicpc.net/problem/21942)  
+[Cubeditor](https://www.acmicpc.net/problem/1701)  
+[와일드카드 괄호 문자열](https://www.acmicpc.net/problem/28709)  
   
-[미확인 도착지](https://www.acmicpc.net/problem/9370)  
-[인간 대포](https://www.acmicpc.net/problem/10473)  
-[횡단보도](https://www.acmicpc.net/problem/24042)  
-[도로검문](https://www.acmicpc.net/problem/2307)  
+
+[가희와 지하철역 저장 시스템 1](https://www.acmicpc.net/problem/27888)  
   
  </br>
 

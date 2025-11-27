@@ -60,15 +60,10 @@
 
 ## 필수 문제  
     
-String   
-[K-Words Problem](https://www.acmicpc.net/problem/30037)  
-[암호 깨기](https://www.acmicpc.net/problem/9369)  
-[부품 대여장](https://www.acmicpc.net/problem/21942)  
-[Cubeditor](https://www.acmicpc.net/problem/1701)  
-[와일드카드 괄호 문자열](https://www.acmicpc.net/problem/28709)  
-  
-
-[가희와 지하철역 저장 시스템 1](https://www.acmicpc.net/problem/27888)  
+Simulation   
+[드래곤 커브](https://www.acmicpc.net/problem/15685)  
+[가스관](https://www.acmicpc.net/problem/2931)  
+[구슬 탈출 2](https://www.acmicpc.net/problem/13460)  
   
  </br>
 

@@ -60,10 +60,14 @@
 
 ## 필수 문제  
     
-Simulation   
-[드래곤 커브](https://www.acmicpc.net/problem/15685)  
-[가스관](https://www.acmicpc.net/problem/2931)  
-[구슬 탈출 2](https://www.acmicpc.net/problem/13460)  
+MST   
+[다리 만들기 2](https://www.acmicpc.net/problem/17472)  
+[악덕 영주 혜유](https://www.acmicpc.net/problem/20010)  
+[물대기](https://www.acmicpc.net/problem/1368)  
+[우주신과의 교감](https://www.acmicpc.net/problem/1774)  
+[나만 안되는 연애](https://www.acmicpc.net/problem/14621)  
+
+[방탈출](https://www.acmicpc.net/problem/23743)  
   
  </br>
 

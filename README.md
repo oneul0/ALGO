@@ -60,14 +60,12 @@
 
 ## 필수 문제  
     
-MST   
-[다리 만들기 2](https://www.acmicpc.net/problem/17472)  
-[악덕 영주 혜유](https://www.acmicpc.net/problem/20010)  
-[물대기](https://www.acmicpc.net/problem/1368)  
-[우주신과의 교감](https://www.acmicpc.net/problem/1774)  
-[나만 안되는 연애](https://www.acmicpc.net/problem/14621)  
+Greedy   
+[동전 뒤집기](https://www.acmicpc.net/problem/1285)  
+[빵집](https://www.acmicpc.net/problem/3109)  
+[가희와 탑](https://www.acmicpc.net/problem/24337)  
+[성싶당 밀키트](https://www.acmicpc.net/problem/24041)  
 
-[방탈출](https://www.acmicpc.net/problem/23743)  
   
  </br>
 

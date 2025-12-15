@@ -61,10 +61,7 @@
 ## 필수 문제  
     
 Greedy   
-[동전 뒤집기](https://www.acmicpc.net/problem/1285)  
-[빵집](https://www.acmicpc.net/problem/3109)  
-[가희와 탑](https://www.acmicpc.net/problem/24337)  
-[성싶당 밀키트](https://www.acmicpc.net/problem/24041)  
+[소가 길을 건너간 이유](https://www.acmicpc.net/workbook/view/1241)  
 
   
  </br>

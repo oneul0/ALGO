@@ -60,8 +60,14 @@
 
 ## 필수 문제  
     
-Greedy   
-[소가 길을 건너간 이유](https://www.acmicpc.net/workbook/view/1241)  
+Graph   
+[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)  
+[할로윈의 양아치](https://www.acmicpc.net/problem/20303)  
+[Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)  
+[웜홀](https://www.acmicpc.net/problem/1865)  
+[치즈](https://www.acmicpc.net/problem/2638)  
+
+[게임 개발](https://www.acmicpc.net/problem/1516)  
 
   
  </br>

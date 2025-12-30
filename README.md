@@ -63,7 +63,6 @@
 Graph   
 [열쇠](https://www.acmicpc.net/problem/9328)  
 [해밍 경로](https://www.acmicpc.net/problem/2481)  
-[벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)  
 [스타트 택시](https://www.acmicpc.net/problem/19238)  
 [구름다리](https://www.acmicpc.net/problem/22967)  
 

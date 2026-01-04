@@ -60,12 +60,14 @@
 
 ## 필수 문제  
     
-Graph   
-[열쇠](https://www.acmicpc.net/problem/9328)  
-[해밍 경로](https://www.acmicpc.net/problem/2481)  
-[스타트 택시](https://www.acmicpc.net/problem/19238)  
-[구름다리](https://www.acmicpc.net/problem/22967)  
-
+1-2주간문제 디펜스   
+[용량 확보](https://www.acmicpc.net/problem/9327)  
+[색깔 통일하기](https://www.acmicpc.net/problem/17307)  
+[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)  
+[줄 세우기](https://www.acmicpc.net/problem/2252)  
+[정육점](https://www.acmicpc.net/problem/2258)  
+  
+[조각 움직이기](https://www.acmicpc.net/problem/1035)  
   
  </br>
 

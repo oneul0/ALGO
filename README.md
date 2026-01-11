@@ -60,14 +60,18 @@
 
 ## 필수 문제  
     
-1-2주간문제 디펜스   
-[용량 확보](https://www.acmicpc.net/problem/9327)  
-[색깔 통일하기](https://www.acmicpc.net/problem/17307)  
-[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)  
-[줄 세우기](https://www.acmicpc.net/problem/2252)  
-[정육점](https://www.acmicpc.net/problem/2258)  
+1-3주간문제 디펜스   
+[발전소 설치](https://www.acmicpc.net/problem/1277)  
+[최고의 팀 만들기](https://www.acmicpc.net/problem/1633)  
+[압축](https://www.acmicpc.net/problem/1662)  
+[수들의 합 4](https://www.acmicpc.net/problem/2015)  
+[철사 자르기](https://www.acmicpc.net/problem/2459)  
+[동전 바꿔주기](https://www.acmicpc.net/problem/2624)  
+[Defend the CTP!!!](https://www.acmicpc.net/problem/14615)  
+[A[j]-A[i]+A[l]-A[k]](https://www.acmicpc.net/problem/15487)  
+[직사각형 탈출](https://www.acmicpc.net/problem/16973)  
+[샘터](https://www.acmicpc.net/problem/18513)  
   
-[조각 움직이기](https://www.acmicpc.net/problem/1035)  
   
  </br>
 

@@ -60,17 +60,25 @@
 
 ## 필수 문제  
     
-1-3주간문제 디펜스   
-[발전소 설치](https://www.acmicpc.net/problem/1277)  
-[최고의 팀 만들기](https://www.acmicpc.net/problem/1633)  
-[압축](https://www.acmicpc.net/problem/1662)  
-[수들의 합 4](https://www.acmicpc.net/problem/2015)  
-[철사 자르기](https://www.acmicpc.net/problem/2459)  
-[동전 바꿔주기](https://www.acmicpc.net/problem/2624)  
-[Defend the CTP!!!](https://www.acmicpc.net/problem/14615)  
-[A[j]-A[i]+A[l]-A[k]](https://www.acmicpc.net/problem/15487)  
-[직사각형 탈출](https://www.acmicpc.net/problem/16973)  
-[샘터](https://www.acmicpc.net/problem/18513)  
+1-4주간문제 디펜스   
+[연구소 2](https://www.acmicpc.net/problem/17141)  
+[곡예 비행](https://www.acmicpc.net/problem/21923)  
+
+    
+[철도 공사](https://www.acmicpc.net/problem/23309)  
+[Drop 7](https://www.acmicpc.net/problem/25331)  
+
+    
+[지수를 더하자](https://www.acmicpc.net/problem/27725)  
+[DDR 체력 관리](https://www.acmicpc.net/problem/29756)  
+
+    
+[내진 설계](https://www.acmicpc.net/problem/31863)  
+[장작 넣기](https://www.acmicpc.net/problem/24884)  
+
+    
+[브실이는 잔디가 좋아](https://www.acmicpc.net/problem/29737)  
+[젊은 날의 생이여](https://www.acmicpc.net/problem/18866)  
   
   
  </br>

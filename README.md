@@ -60,25 +60,25 @@
 
 ## 필수 문제  
     
-1-5주간문제 디펜스   
-[파일 합치기 3](https://www.acmicpc.net/problem/13975)  
-[회사 문화 1](https://www.acmicpc.net/problem/14267)  
+2-1주간문제 디펜스   
+[좁은 미술전시관](https://www.acmicpc.net/problem/10476)  
+[선물 교환](https://www.acmicpc.net/problem/1889)  
 
     
-[토끼가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17130)  
-[테트로미노](https://www.acmicpc.net/problem/14500)  
+[비밀 모임](https://www.acmicpc.net/problem/13424)  
+[케익 배달](https://www.acmicpc.net/problem/2159)  
 
     
-[물통](https://www.acmicpc.net/problem/2251)  
-[문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)  
+[일루미네이션](https://www.acmicpc.net/problem/5547)  
+[아름다운 행렬](https://www.acmicpc.net/problem/2829)  
 
     
-[List of Unique Numbers](https://www.acmicpc.net/problem/13144)  
-[치즈](https://www.acmicpc.net/problem/2636)  
+[점심메뉴](https://www.acmicpc.net/problem/12099)  
+[나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673)  
 
     
-[사탕 가게](https://www.acmicpc.net/problem/4781)  
-[미로만들기](https://www.acmicpc.net/problem/2665)  
+[타일 채우기](https://www.acmicpc.net/problem/2133)  
+[카드 게임](https://www.acmicpc.net/problem/11062)  
   
   
  </br>

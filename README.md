@@ -61,11 +61,11 @@
 ## 필수 문제  
     
 2-2주간문제 디펜스   
-[패셔니스타](https://www.acmicpc.net/problem/5535)  
+[죽음의 비](https://www.acmicpc.net/problem/22944)  
 [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)  
 
     
-[가희의 수열놀이 (Small)](https://www.acmicpc.net/problem/17162)  
+[카카오머니](https://www.acmicpc.net/problem/15998)  
 [훈련소로 가는 날](https://www.acmicpc.net/problem/18858)  
     
 [수도배관공사](https://www.acmicpc.net/problem/2073)  
@@ -73,7 +73,7 @@
 
     
 []()  
-[인하니카 공화국](https://www.acmicpc.net/problem/12784)  
+[연예인은 힘들어](https://www.acmicpc.net/problem/17270)  
 
     
 []()  

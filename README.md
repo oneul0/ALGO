@@ -60,25 +60,24 @@
 
 ## 필수 문제  
     
-2-1주간문제 디펜스   
-[좁은 미술전시관](https://www.acmicpc.net/problem/10476)  
-[선물 교환](https://www.acmicpc.net/problem/1889)  
+2-2주간문제 디펜스   
+[패셔니스타](https://www.acmicpc.net/problem/5535)  
+[흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)  
 
     
-[비밀 모임](https://www.acmicpc.net/problem/13424)  
-[케익 배달](https://www.acmicpc.net/problem/2159)  
+[가희의 수열놀이 (Small)](https://www.acmicpc.net/problem/17162)  
+[훈련소로 가는 날](https://www.acmicpc.net/problem/18858)  
+    
+[수도배관공사](https://www.acmicpc.net/problem/2073)  
+[독특한 계산기](https://www.acmicpc.net/problem/19591)  
 
     
-[일루미네이션](https://www.acmicpc.net/problem/5547)  
-[아름다운 행렬](https://www.acmicpc.net/problem/2829)  
+[]()  
+[인하니카 공화국](https://www.acmicpc.net/problem/12784)  
 
     
-[점심메뉴](https://www.acmicpc.net/problem/12099)  
-[나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673)  
-
-    
-[타일 채우기](https://www.acmicpc.net/problem/2133)  
-[카드 게임](https://www.acmicpc.net/problem/11062)  
+[]()  
+[]()  
   
   
  </br>

@@ -60,20 +60,20 @@
 
 ## 필수 문제  
     
-2-2주간문제 디펜스   
-[죽음의 비](https://www.acmicpc.net/problem/22944)  
-[흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)  
+2-3주간문제 디펜스   
+[파티](https://www.acmicpc.net/problem/1238)  
+[부분합](https://www.acmicpc.net/problem/1806)  
 
     
-[카카오머니](https://www.acmicpc.net/problem/15998)  
-[훈련소로 가는 날](https://www.acmicpc.net/problem/18858)  
+[비슷한 단어](https://www.acmicpc.net/problem/2179)  
+[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)  
     
-[수도배관공사](https://www.acmicpc.net/problem/2073)  
-[독특한 계산기](https://www.acmicpc.net/problem/19591)  
+[편세권](https://www.acmicpc.net/problem/31849)  
+[]()  
 
     
 []()  
-[연예인은 힘들어](https://www.acmicpc.net/problem/17270)  
+[]()  
 
     
 []()  

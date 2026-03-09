@@ -60,7 +60,7 @@
 
 ## 필수 문제  
     
-3-1주간문제 디펜스(2025 카카오 하반기 1차)   
+3-2주간문제 디펜스(2025 카카오 하반기 1차)   
 [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)  
 [노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)  
 

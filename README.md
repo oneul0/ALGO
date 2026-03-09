@@ -60,17 +60,18 @@
 
 ## 필수 문제  
     
-3-1주간문제 디펜스   
-[캐슬 디펜스](https://www.acmicpc.net/problem/17135)  
-[⚾](https://www.acmicpc.net/problem/17281)  
+3-1주간문제 디펜스(2025 카카오 하반기 1차)   
+[중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)  
+[노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)  
 
-    
-[최대 유량](https://www.acmicpc.net/problem/6086)  
-[체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)  
-    
-[소코반](https://www.acmicpc.net/problem/4577)  
-[학회원](https://www.acmicpc.net/problem/3865)  
+[리프 노드 수 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/468372)  
+[바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)      
 
+
+[카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374)      
+[발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375)  
+
+[최고 속도](https://school.programmers.co.kr/learn/courses/30/lessons/468376)  
     
   
   

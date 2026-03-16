@@ -60,18 +60,15 @@
 
 ## 필수 문제  
     
-3-2주간문제 디펜스(2025 카카오 하반기 1차)   
-[중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)  
-[노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)  
+3-3주간문제 디펜스   
+[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379)  
+[힌트 스테이지](https://school.programmers.co.kr/learn/courses/30/lessons/468377)  
 
-[리프 노드 수 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/468372)  
-[바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)      
+[주사위 굴리기 2](https://www.acmicpc.net/problem/23288)  
+[학교 탐방하기](https://www.acmicpc.net/problem/13418)      
 
 
-[카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374)      
-[발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375)  
-
-[최고 속도](https://school.programmers.co.kr/learn/courses/30/lessons/468376)  
+[견우와 직녀](https://www.acmicpc.net/problem/16137)      
     
   
   

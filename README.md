@@ -60,15 +60,16 @@
 
 ## 필수 문제  
     
-3-3주간문제 디펜스   
-[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379)  
-[힌트 스테이지](https://school.programmers.co.kr/learn/courses/30/lessons/468377)  
+3-4주간문제 디펜스   
+[화살표 미로 (Easy)](https://www.acmicpc.net/problem/20419)  
+[백준 빙고 스피드러너](https://www.acmicpc.net/problem/34753)  
 
-[주사위 굴리기 2](https://www.acmicpc.net/problem/23288)  
-[학교 탐방하기](https://www.acmicpc.net/problem/13418)      
+[가희와 지하철역 저장 시스템 1](https://www.acmicpc.net/problem/27888)  
+[Brainf*ck](https://www.acmicpc.net/problem/2733)  
 
 
-[견우와 직녀](https://www.acmicpc.net/problem/16137)      
+[새벽의 탐정 게임](https://www.acmicpc.net/problem/25208)  
+[스티커 붙이기](https://www.acmicpc.net/problem/18808)  
     
   
   

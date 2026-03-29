@@ -60,16 +60,16 @@
 
 ## 필수 문제  
     
-3-4주간문제 디펜스   
-[화살표 미로 (Easy)](https://www.acmicpc.net/problem/20419)  
-[백준 빙고 스피드러너](https://www.acmicpc.net/problem/34753)  
+4-1주간문제 디펜스   
+[싸지방에 간 준하](https://www.acmicpc.net/problem/12764)  
+[새로운 게임 2](https://www.acmicpc.net/problem/17837)  
 
-[가희와 지하철역 저장 시스템 1](https://www.acmicpc.net/problem/27888)  
-[Brainf*ck](https://www.acmicpc.net/problem/2733)  
+[보스몬스터 전리품](https://www.acmicpc.net/problem/20005)  
+[주사위 윷놀이](https://www.acmicpc.net/problem/17825)  
 
 
-[새벽의 탐정 게임](https://www.acmicpc.net/problem/25208)  
-[스티커 붙이기](https://www.acmicpc.net/problem/18808)  
+[미친 아두이노](https://www.acmicpc.net/problem/8972)  
+[문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)  
     
   
   

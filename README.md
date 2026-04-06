@@ -60,16 +60,15 @@
 
 ## 필수 문제  
     
-4-1주간문제 디펜스   
-[싸지방에 간 준하](https://www.acmicpc.net/problem/12764)  
-[새로운 게임 2](https://www.acmicpc.net/problem/17837)  
+4-2주간문제 디펜스   
+[2048 (Easy)](https://www.acmicpc.net/problem/12100)  
+[청소년 상어](https://www.acmicpc.net/problem/19236)  
 
-[보스몬스터 전리품](https://www.acmicpc.net/problem/20005)  
-[주사위 윷놀이](https://www.acmicpc.net/problem/17825)  
+[원판 돌리기](https://www.acmicpc.net/problem/17822)  
+[수족관 1](https://www.acmicpc.net/problem/8982)  
 
 
-[미친 아두이노](https://www.acmicpc.net/problem/8972)  
-[문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)  
+[사다리](https://www.acmicpc.net/problem/2528)  
     
   
   

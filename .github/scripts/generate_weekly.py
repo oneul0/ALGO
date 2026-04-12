@@ -3,7 +3,7 @@ import re
 import sys
 
 ROOT_README = Path("README.md")
-TARGET_ROOT = Path("v2.2")
+TARGET_ROOT = Path("v.2.2")
 
 
 def sanitize(name: str) -> str:
@@ -42,7 +42,31 @@ def extract_links(body: str):
     return links
 
 
-def build_readme(title: str, links: list[str]) -> str:
+def parse_markdown_link(link: str):
+    match = re.match(r"^\[(.+)\]\((.+)\)\s*$", link)
+    if not match:
+        raise ValueError(f"올바른 마크다운 링크 형식이 아닙니다: {link}")
+    title = match.group(1).strip()
+    url = match.group(2).strip()
+    return title, url
+
+
+def detect_platform_tag(url: str) -> str:
+    url_lower = url.lower()
+
+    if "acmicpc.net" in url_lower:
+        return "BOJ"
+    if "programmers.co.kr" in url_lower or "school.programmers.co.kr" in url_lower:
+        return "PGS"
+    if "swexpertacademy.com" in url_lower:
+        return "SWEA"
+    if "leetcode.com" in url_lower:
+        return "LTC"
+
+    return "ETC"
+
+
+def build_weekly_readme(title: str, links: list[str]) -> str:
     lines = [
         f"# {title}",
         "",
@@ -57,6 +81,11 @@ def build_readme(title: str, links: list[str]) -> str:
     return "\n".join(lines)
 
 
+def build_problem_folder_name(problem_title: str, url: str) -> str:
+    tag = detect_platform_tag(url)
+    return sanitize(f"[{tag}] {problem_title}")
+
+
 def main():
     if not ROOT_README.exists():
         print("루트 README.md가 없습니다.")
@@ -64,36 +93,47 @@ def main():
 
     text = ROOT_README.read_text(encoding="utf-8")
 
-    title, body = extract_week_block(text)
-    title = sanitize(title)
+    week_title, body = extract_week_block(text)
+    week_title = sanitize(week_title)
     links = extract_links(body)
 
-    target_dir = TARGET_ROOT / title
-    target_dir.mkdir(parents=True, exist_ok=True)
+    week_dir = TARGET_ROOT / week_title
+    week_dir.mkdir(parents=True, exist_ok=True)
 
-    target_readme = target_dir / "README.md"
-    new_content = build_readme(title, links)
+    week_readme = week_dir / "README.md"
+    week_readme_content = build_weekly_readme(week_title, links)
 
-    print(f"title: {title}")
-    print(f"target_dir: {target_dir}")
-    print(f"target_readme: {target_readme}")
+    print(f"week_title: {week_title}")
+    print(f"week_dir: {week_dir}")
     print(f"links_count: {len(links)}")
-    print("links:")
-    for link in links:
-        print(f"  {link}")
 
-    if target_readme.exists():
-        old_content = target_readme.read_text(encoding="utf-8")
-        if old_content == new_content:
-            print("변경 사항 없음: 기존 README와 생성 내용이 동일함")
-            return
-        else:
-            print("기존 README와 생성 내용이 다름 -> 업데이트 진행")
+    # 주차 README 생성/업데이트
+    old_week_readme = ""
+    if week_readme.exists():
+        old_week_readme = week_readme.read_text(encoding="utf-8")
+
+    if old_week_readme != week_readme_content:
+        week_readme.write_text(week_readme_content, encoding="utf-8")
+        print(f"주차 README 생성/업데이트: {week_readme}")
     else:
-        print("기존 README 없음 -> 새로 생성")
+        print("주차 README 변경 없음")
 
-    target_readme.write_text(new_content, encoding="utf-8")
-    print(f"생성 완료: {target_readme}")
+    # 문제 폴더 생성
+    created_problem_dirs = []
+    for link in links:
+        problem_title, problem_url = parse_markdown_link(link)
+        problem_folder_name = build_problem_folder_name(problem_title, problem_url)
+        problem_dir = week_dir / problem_folder_name
+
+        if not problem_dir.exists():
+            problem_dir.mkdir(parents=True, exist_ok=True)
+            created_problem_dirs.append(str(problem_dir))
+            print(f"문제 폴더 생성: {problem_dir}")
+        else:
+            print(f"문제 폴더 이미 존재: {problem_dir}")
+
+    if not created_problem_dirs:
+        print("새로 생성된 문제 폴더 없음")
 
 
 if __name__ == "__main__":

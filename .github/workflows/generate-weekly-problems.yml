@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -25,19 +25,19 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Generate weekly folder and README
-        run: python .github/scripts/generate_weekly_problem.py
+      - name: Run generator
+        run: python .github/scripts/generate_weekly.py
 
-      - name: Commit and push changes
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if git diff --quiet; then
-            echo "No changes detected"
+            echo "No changes"
             exit 0
           fi
 
           git add .
-          git commit -m "docs: generate weekly problem folder from root README"
+          git commit -m "docs: generate weekly folder from README"
           git push

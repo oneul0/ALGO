@@ -95,14 +95,16 @@ def build_problem_folder_name(problem_title: str, url: str) -> str:
 
 
 def extract_member_section(text: str) -> str:
-    pattern = re.compile(
-        r"##\s*👩‍👦‍👦.*?<table>([\s\S]*?)</table>",
-        re.MULTILINE
-    )
-    match = pattern.search(text)
-    if not match:
-        raise ValueError("스터디 멤버 테이블을 찾을 수 없습니다.")
-    return match.group(1)
+    tables = re.findall(r"<table>([\s\S]*?)</table>", text, re.IGNORECASE)
+
+    if not tables:
+        raise ValueError("README에서 table 태그를 찾을 수 없습니다.")
+
+    for table in tables:
+        if "github.com/" in table.lower():
+            return table
+
+    raise ValueError("GitHub 링크가 포함된 스터디 멤버 테이블을 찾을 수 없습니다.")
 
 
 def extract_usernames_and_languages(member_section: str):

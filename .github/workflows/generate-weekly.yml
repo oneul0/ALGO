@@ -32,12 +32,13 @@ jobs:
         run: |
           git config user.name "oneul0"
           git config user.email "neul.dev@gmail.com"
-
-          if git diff --quiet; then
-            echo "No changes"
+      
+          git add .
+      
+          if git diff --cached --quiet; then
+            echo "No staged changes"
             exit 0
           fi
-
-          git add .
+      
           git commit -m "docs: generate weekly folder from README"
-          git push
+          git push origin HEAD:${{ github.ref_name }}

@@ -6,98 +6,85 @@ ROOT_README = Path("README.md")
 TARGET_ROOT = Path("v.2.2")
 
 
-def sanitize_folder_name(name: str) -> str:
-    invalid_chars = r'<>:"/\\|?*'
-    for ch in invalid_chars:
+def sanitize(name: str) -> str:
+    invalid = r'<>:"/\\|?*'
+    for ch in invalid:
         name = name.replace(ch, "-")
     return name.strip()
 
 
-def extract_required_section(text: str) -> str:
+def extract_week_block(text: str):
     """
-    '## 필수 문제'부터 다음 주요 섹션 전까지 추출
+    ### 🟨 4-3주간문제 디펜스
+    ~ 다음 ### 또는 ## 전까지 블록 추출
     """
+
     pattern = re.compile(
-        r"##\s*필수 문제\s*(.*?)(?=\n\s*###|\n\s*## |\Z)",
+        r"###\s*🟨\s*(.+?)\s*\n(.*?)(?=\n###|\n## |\Z)",
         re.DOTALL
     )
+
     match = pattern.search(text)
     if not match:
-        raise ValueError("'## 필수 문제' 섹션을 찾을 수 없습니다.")
-    return match.group(1).strip()
+        raise ValueError("🟨 주차 블록을 찾을 수 없음")
+
+    title = match.group(1).strip()
+    body = match.group(2)
+
+    return title, body
 
 
-def extract_week_title(section: str) -> str:
-    """
-    필수 문제 섹션의 첫 번째 일반 텍스트 줄을 주차명으로 사용
-    예: 4-3주간문제 디펜스
-    """
-    lines = [line.strip() for line in section.splitlines() if line.strip()]
-
-    for line in lines:
-        # 링크 줄 제외
-        if re.match(r"^\[.+\]\(.+\)$", line):
-            continue
-        # html 줄 제외
-        if line.startswith("<") and line.endswith(">"):
-            continue
-        return line
-
-    raise ValueError("주차명을 찾을 수 없습니다.")
-
-
-def extract_problem_links(section: str) -> list[str]:
-    """
-    필수 문제 섹션 내부의 마크다운 링크 줄만 추출
-    """
+def extract_links(body: str):
     links = []
-    for line in section.splitlines():
-        stripped = line.strip()
-        if re.match(r"^\[.+\]\(.+\)$", stripped):
-            links.append(stripped)
+    for line in body.splitlines():
+        line = line.strip()
+        if re.match(r"^\[.+\]\(.+\)$", line):
+            links.append(line)
 
     if not links:
-        raise ValueError("문제 링크를 찾을 수 없습니다.")
+        raise ValueError("문제 링크 없음")
 
     return links
 
 
-def build_readme_content(week_title: str, problem_links: list[str]) -> str:
+def build_readme(title: str, links: list[str]) -> str:
     lines = [
-        f"# {week_title}",
+        f"# {title}",
         "",
         "## 필수 문제",
         ""
     ]
-    lines.extend(f"- {link}" for link in problem_links)
+
+    for link in links:
+        lines.append(f"- {link}")
+
     lines.append("")
     return "\n".join(lines)
 
 
 def main():
     if not ROOT_README.exists():
-        print("루트 README.md가 없습니다.")
+        print("README 없음")
         sys.exit(1)
 
     text = ROOT_README.read_text(encoding="utf-8")
 
-    required_section = extract_required_section(text)
-    week_title = sanitize_folder_name(extract_week_title(required_section))
-    problem_links = extract_problem_links(required_section)
+    title, body = extract_week_block(text)
+    title = sanitize(title)
 
-    target_dir = TARGET_ROOT / week_title
+    links = extract_links(body)
+
+    target_dir = TARGET_ROOT / title
     target_dir.mkdir(parents=True, exist_ok=True)
 
     target_readme = target_dir / "README.md"
-    new_content = build_readme_content(week_title, problem_links)
+    new_content = build_readme(title, links)
 
-    old_content = ""
     if target_readme.exists():
-        old_content = target_readme.read_text(encoding="utf-8")
-
-    if old_content == new_content:
-        print("변경 사항 없음")
-        return
+        old = target_readme.read_text(encoding="utf-8")
+        if old == new_content:
+            print("변경 없음")
+            return
 
     target_readme.write_text(new_content, encoding="utf-8")
     print(f"생성 완료: {target_readme}")

@@ -67,8 +67,7 @@
 
 [모노미노도미노 2](https://www.acmicpc.net/problem/20061)  
 [게리맨더링 2](https://www.acmicpc.net/problem/17779)  
-    
- 
+     
  </br>
 
 

@@ -26,7 +26,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run generator
-        run: python .github/scripts/generate_weekly.py
+        run: python .github/scripts/generate_weekly-problems.py
 
       - name: Commit & Push
         run: |

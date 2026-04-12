@@ -69,7 +69,6 @@
 [게리맨더링 2](https://www.acmicpc.net/problem/17779)  
     
   
-  
  </br>
 
 

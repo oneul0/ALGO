@@ -54,13 +54,10 @@
 
 
 
-### 🟨 이번 주 문제
+### 🟨 4-3주간문제 디펜스   
 
 </br>
 
-## 필수 문제  
-    
-4-3주간문제 디펜스   
 [수영장 만들기](https://www.acmicpc.net/problem/1113)  
 [용감한 아리의 동굴 대탈출](https://www.acmicpc.net/problem/25173)  
 

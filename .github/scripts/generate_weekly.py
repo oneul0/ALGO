@@ -3,7 +3,7 @@ import re
 import sys
 
 ROOT_README = Path("README.md")
-TARGET_ROOT = Path("v.2.2")
+TARGET_ROOT = Path("v2.2")
 
 
 def sanitize(name: str) -> str:

@@ -60,15 +60,16 @@
 
 ## 필수 문제  
     
-4-2주간문제 디펜스   
-[2048 (Easy)](https://www.acmicpc.net/problem/12100)  
-[청소년 상어](https://www.acmicpc.net/problem/19236)  
+4-3주간문제 디펜스   
+[수영장 만들기](https://www.acmicpc.net/problem/1113)  
+[연결](https://www.acmicpc.net/problem/5022)  
 
-[원판 돌리기](https://www.acmicpc.net/problem/17822)  
-[수족관 1](https://www.acmicpc.net/problem/8982)  
+[상어 중학교](https://www.acmicpc.net/problem/21609)  
+[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)  
 
 
-[사다리](https://www.acmicpc.net/problem/2528)  
+[모노미노도미노 2](https://www.acmicpc.net/problem/20061)  
+[게리맨더링 2](https://www.acmicpc.net/problem/17779)  
     
   
   
